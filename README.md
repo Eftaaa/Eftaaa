@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Efta</h1>
-<h3 align="center">Computer Science Graduate</h3>
-
-
-- 🔭 I’m currently working on **personal projects to improve my coding and security skills**
-
-- 👯 I’m looking to collaborate on **all kinds of projects that match my current knowledge or help me learn new technologies**
-
-- 🤝 I’m looking for help with **security best practices and hands-on mentorship to deepen my expertise**
-
-- 🎓 About Me **Recent Computer Science graduate (BSc) passionate about software development and security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
